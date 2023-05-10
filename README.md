@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### What's up?
-- 💼 I'm a freelancer at [Freelancer.com](https://www.freelancer.com/u/AlexaDjordjic) and currently running [Code Cats Hosting Services](https://code-cats.com)
+- 💼 I'm currently running [Code Cats Ltd](https://codecats.uk) offering hosting and making loads of [Blesta](https://blesta.com) plugins.
 - 🌱 I'm learning [Vue.js](https://vuejs.org/), its amazing, SCREW YOU [REACT](https://reactjs.org/)!
 - 🤮 ~~Meanwhile also torturing myself with the horrible C# alternative called Java~~
 
